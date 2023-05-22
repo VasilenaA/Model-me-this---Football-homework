@@ -1,0 +1,15 @@
+F:\V.A\University\2ri semestar\OOP\Football_Homework\Football_Homework\obj\Debug\net6.0\Football_Homework.csproj.AssemblyReference.cache
+F:\V.A\University\2ri semestar\OOP\Football_Homework\Football_Homework\obj\Debug\net6.0\Football_Homework.GeneratedMSBuildEditorConfig.editorconfig
+F:\V.A\University\2ri semestar\OOP\Football_Homework\Football_Homework\obj\Debug\net6.0\Football_Homework.AssemblyInfoInputs.cache
+F:\V.A\University\2ri semestar\OOP\Football_Homework\Football_Homework\obj\Debug\net6.0\Football_Homework.AssemblyInfo.cs
+F:\V.A\University\2ri semestar\OOP\Football_Homework\Football_Homework\obj\Debug\net6.0\Football_Homework.csproj.CoreCompileInputs.cache
+F:\V.A\University\2ri semestar\OOP\Football_Homework\Football_Homework\bin\Debug\net6.0\Football_Homework.exe
+F:\V.A\University\2ri semestar\OOP\Football_Homework\Football_Homework\bin\Debug\net6.0\Football_Homework.deps.json
+F:\V.A\University\2ri semestar\OOP\Football_Homework\Football_Homework\bin\Debug\net6.0\Football_Homework.runtimeconfig.json
+F:\V.A\University\2ri semestar\OOP\Football_Homework\Football_Homework\bin\Debug\net6.0\Football_Homework.dll
+F:\V.A\University\2ri semestar\OOP\Football_Homework\Football_Homework\bin\Debug\net6.0\Football_Homework.pdb
+F:\V.A\University\2ri semestar\OOP\Football_Homework\Football_Homework\obj\Debug\net6.0\Football_Homework.dll
+F:\V.A\University\2ri semestar\OOP\Football_Homework\Football_Homework\obj\Debug\net6.0\refint\Football_Homework.dll
+F:\V.A\University\2ri semestar\OOP\Football_Homework\Football_Homework\obj\Debug\net6.0\Football_Homework.pdb
+F:\V.A\University\2ri semestar\OOP\Football_Homework\Football_Homework\obj\Debug\net6.0\Football_Homework.genruntimeconfig.cache
+F:\V.A\University\2ri semestar\OOP\Football_Homework\Football_Homework\obj\Debug\net6.0\ref\Football_Homework.dll
